@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kółko i krzyżyk", "Kółko i krzyżyk.csproj", "{CAA45034-0AF9-497B-BEFD-0EB6D185F349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAA45034-0AF9-497B-BEFD-0EB6D185F349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA45034-0AF9-497B-BEFD-0EB6D185F349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA45034-0AF9-497B-BEFD-0EB6D185F349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA45034-0AF9-497B-BEFD-0EB6D185F349}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C5FF0BA-B832-4E20-94D4-2B7FBAC640E7}
+	EndGlobalSection
+EndGlobal
